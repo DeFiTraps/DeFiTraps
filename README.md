@@ -7,6 +7,8 @@ This repository provides the dataset and the tool for the paper "DeFiDefender: I
 
 3. labeled.txt is the result based on manually effort, which contains sixe lines for each examples. 
 
+4. SmartRoulette_in_DAPP_Store.png and SmartRoulette.png are the screeshot of the case study example that we introduced in Section 6.1
+
 The first line contains the contract address and its main contract name. The first line endwith Y or N. If the it ends with Y, which means all the prediction is correct; Otherwise, there must be at least one error case. 
 
 The second to sixth lines contains the prediction result. If the result ends with  "==> error", which refers to an error case. 
